@@ -33,6 +33,7 @@ header{
 
 header img{
     border-radius: 25px;
+    width:50px;
 }
 nav{
     display: flex;
